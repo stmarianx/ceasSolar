@@ -7,11 +7,14 @@ Ceas solar interactiv cu Arduino (UNO + stepper L298N + bandă WS2812B): simulea
 Simulez miscarea soarelui pe un cadran solar fizic: o tija (stepper + reductor) urmeaza orele, iar o banda WS2812B (57 LED-uri) creeaza un spot luminos pe fiecare ora. Umbra gnomonului (batul central) cade corect pe cifrele romane, ca la un cadran solar clasic.
 
 
+## Poze demo
+
+| Ora 11 | Ora 12 | Ora 1 |
+|--------|--------|-------|
+| <img src="media/ora11.jpg" width="300"/> | <img src="media/ora12.jpg" width="300"/> | <img src="media/ora1.jpg" width="300"/> |
 
 
 
-## Demo
-[![Watch the demo](media/thumb.jpg)](media/demo.mp4)
 
 
 
@@ -35,12 +38,8 @@ Simulez miscarea soarelui pe un cadran solar fizic: o tija (stepper + reductor) 
 - `RUN` – impuls scurt la motor (10 pasi), doar demo „motor stricat”
 - `STOP` – dezenergizeaza bobinele
 
-## Poze demo
 
-| Ora 11 | Ora 12 | Ora 1 |
-|--------|--------|-------|
-| <img src="media/ora11.jpg" width="300"/> | <img src="media/ora12.jpg" width="300"/> | <img src="media/ora1.jpg" width="300"/> |
-
-
+## Demo
+[![Watch the demo](media/thumb.jpg)](media/demo.mp4)
 
 
