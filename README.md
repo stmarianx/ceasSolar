@@ -43,3 +43,16 @@ Simulez miscarea soarelui pe un cadran solar fizic: o tija (stepper + reductor) 
 [![Watch the demo](media/thumb.jpg)](media/demo.mp4)
 
 
+## Componente
+
+**Schema conexiunilor**  
+<img src="media/schema.jpg" width="400"/>
+
+**Module folosite**  
+
+| Driver L298N | Arduino UNO |
+|---|---|
+| <img src="media/componente.jpg" width="250"/> | <img src="media/componente1.jpg" width="250"/> |
+
+
+
