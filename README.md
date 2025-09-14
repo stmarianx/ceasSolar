@@ -22,7 +22,7 @@ Simulez miscarea soarelui pe un cadran solar fizic: o tija (stepper + reductor) 
 - Arduino UNO
 - L298N + stepper cu reductor
 - Banda WS2812B (57 LED-uri, DIN pe D3)
-- Reed-switch (pastrat in cod pentru licenta; in practica nefolosit)
+- Ceas rtc
 - Sursa 12V pentru motor (L298N), USB pentru Arduino
 
 ## Pinout
