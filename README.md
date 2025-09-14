@@ -10,9 +10,9 @@ Simulez miscarea soarelui pe un cadran solar fizic: o tija (stepper + reductor) 
 
 
 
-\## Demo
+## Demo
+[![Watch the demo](media/thumb.jpg)](media/demo.mp4)
 
-\[!\[Watch the demo](media/thumb.jpg)](media/demo.mp4)
 
 
 
