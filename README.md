@@ -35,17 +35,12 @@ Simulez miscarea soarelui pe un cadran solar fizic: o tija (stepper + reductor) 
 - `RUN` – impuls scurt la motor (10 pasi), doar demo „motor stricat”
 - `STOP` – dezenergizeaza bobinele
 
-
 ## Poze demo
 
-Ora 12  
-![Ora 12](media/ora12.jpg)
+| Ora 11 | Ora 12 | Ora 1 |
+|--------|--------|-------|
+| <img src="media/ora11.jpg" width="300"/> | <img src="media/ora12.jpg" width="300"/> | <img src="media/ora1.jpg" width="300"/> |
 
-Ora 11  
-![Ora 11](media/ora11.jpg)
-
-Ora 1
-![Ora 1](media/ora1.jpg)
 
 
 
