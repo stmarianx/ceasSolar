@@ -36,4 +36,16 @@ Simulez miscarea soarelui pe un cadran solar fizic: o tija (stepper + reductor) 
 - `STOP` – dezenergizeaza bobinele
 
 
+## Poze demo
+
+Ora 12  
+![Ora 12](media/ora12.jpg)
+
+Ora 11  
+![Ora 11](media/ora11.jpg)
+
+Ora 1
+![Ora 1](media/ora1.jpg)
+
+
 
